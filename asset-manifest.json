@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-06-phonebook/static/css/main.87f6d40a.chunk.css",
+    "main.js": "/goit-react-hw-06-phonebook/static/js/main.3a42e639.chunk.js",
+    "main.js.map": "/goit-react-hw-06-phonebook/static/js/main.3a42e639.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-06-phonebook/static/js/runtime-main.e04fccbc.js",
+    "runtime-main.js.map": "/goit-react-hw-06-phonebook/static/js/runtime-main.e04fccbc.js.map",
+    "static/js/2.0ec4d2c1.chunk.js": "/goit-react-hw-06-phonebook/static/js/2.0ec4d2c1.chunk.js",
+    "static/js/2.0ec4d2c1.chunk.js.map": "/goit-react-hw-06-phonebook/static/js/2.0ec4d2c1.chunk.js.map",
+    "index.html": "/goit-react-hw-06-phonebook/index.html",
+    "static/css/main.87f6d40a.chunk.css.map": "/goit-react-hw-06-phonebook/static/css/main.87f6d40a.chunk.css.map",
+    "static/js/2.0ec4d2c1.chunk.js.LICENSE.txt": "/goit-react-hw-06-phonebook/static/js/2.0ec4d2c1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/goit-react-hw-06-phonebook/static/media/more-leaves.bd689025.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e04fccbc.js",
+    "static/js/2.0ec4d2c1.chunk.js",
+    "static/css/main.87f6d40a.chunk.css",
+    "static/js/main.3a42e639.chunk.js"
+  ]
+}
