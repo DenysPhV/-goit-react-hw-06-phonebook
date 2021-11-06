@@ -5,7 +5,7 @@ import { useDispatch, useSelector } from 'react-redux';
 
 // import PropTypes from 'prop-types';
 import s from './Form.module.css';
-import { addContact } from '../redux/contacts/contacts-actions';
+import { addContact } from '../../redux/contacts/contacts-actions';
 
 const initialState = {
   name: '',

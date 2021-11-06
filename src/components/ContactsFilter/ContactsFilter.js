@@ -4,7 +4,7 @@ import shortid from 'shortid';
 
 import s from './ContactsFilter.module.css';
 
-import { changeFilter } from '../redux/contacts/contacts-actions';
+import { changeFilter } from '../../redux/contacts/contacts-actions';
 
 const filterId = shortid.generate();
 
